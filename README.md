@@ -1,6 +1,6 @@
-# wc-download-filename
-WordPress/WooCommerce plugin to provide pretty filenames for downloads.
-
-This plugin will use the download name as the filename in Content-Disposition.
+# woocommerce-hooks-till
+WordPress/WooCommerce plugin:
+* filename in content disposition from download name
+* api hooks to include full variations in product list
 
 Install and forget.
