@@ -1,9 +1,9 @@
 <?php
 /*
-   Plugin Name: WC Download Filename
-   Plugin URI:  https://github.com/buxit/wc-download-filename
-   Description: Names the download file (in Content-Disposition) after the given name.
-   Version:     0.0.1
+   Plugin Name: WooCommerce Hooks by Till
+   Plugin URI:  https://github.com/buxit/woocommerce-hooks-till
+   Description: WooCommerce plugin: download filename, api hooks
+   Version:     0.0.2
    Author:      Till Busch
    Author URI:  http://bux.at
  */
